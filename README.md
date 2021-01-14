@@ -4,7 +4,7 @@
 
 Submitted by: **Asma Sadia**
 
-Time spent: **8** hours spent in total
+Time spent: **9** hours spent in total
 
 ## User Stories
 
@@ -37,6 +37,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+- I attempted at implementing optional features but I got errors that I could not resolve and hence had to restart the project several times.
+- Lack of knowledge in Swift and Xcode. However I learned a lot while working on the project.
 
 ## License
 
